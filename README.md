@@ -1,6 +1,6 @@
-# :earth_americas: GDP dashboard template
+# :earth_americas: Academic performance forecasts from "TimeX"
 
-Performance forecasts from time to TimeX.
+Improvements in the field of education are targeted. 
 
 ### How to run it on your own machine
 
