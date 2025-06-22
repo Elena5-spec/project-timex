@@ -1,6 +1,6 @@
 # :earth_americas: GDP dashboard template
 
-A simple Streamlit app showing the GDP of different countries in the world.
+Performance forecasts from time to TimeX.
 
 ### How to run it on your own machine
 
