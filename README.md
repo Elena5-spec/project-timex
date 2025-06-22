@@ -9,11 +9,11 @@ A simple Streamlit app showing the GDP of different countries in the world.
 1. Install the requirements
 
    ```
-   $ pip install -r requirements.txt
-   ```
+      $ pip install -r requirements.txt
+         ```
 
-2. Run the app
+         2. Run the app
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+            ```
+               $ streamlit run main.py
+                  ```
